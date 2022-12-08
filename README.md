@@ -5,7 +5,7 @@ Developer Landing Page
 - Css3
 
 ### Time Taken
-- 3 hours
+- 4 hours
 
 ## [Deployment Link](https://anusha-developer-landing.netlify.app/)
 
