@@ -16,4 +16,6 @@ Developer Landing Page
 
 ![9b](https://user-images.githubusercontent.com/43666166/206503461-296107a7-93c0-4cf4-ac27-786e5aef7a9d.PNG)
 
+![9c](https://user-images.githubusercontent.com/43666166/206504207-3f700492-ef62-4342-9970-401ffae31468.PNG)
+
 ![9d](https://user-images.githubusercontent.com/43666166/206504008-a1fdd15d-857a-4ddb-8a67-b1f4a21a205e.PNG)
